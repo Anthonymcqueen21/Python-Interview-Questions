@@ -3,7 +3,6 @@
 # Space Complexity: 0(1) Auxilary
 # Stable
 
-
 """
 Takes a list of integers and sorts them in ascending order. This sorted
 list is then returned.
