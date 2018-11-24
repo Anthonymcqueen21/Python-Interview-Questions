@@ -4,7 +4,6 @@
    as a Collection of elements. Within two prime operations: Push, which adds element to the collection, and pop
    which removes the last element that is added.
 """
-
 # Python Implemtation
 
 class Stack:
