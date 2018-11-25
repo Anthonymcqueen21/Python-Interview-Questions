@@ -4,7 +4,7 @@
 # A sequence of numbers that are sorted in lowest to highest order.
  
   
-  Algorithmic Questions/Bubble_Sort.py
+Algorithmic Questions/Bubble_Sort.py
   
 
 class Solution:
