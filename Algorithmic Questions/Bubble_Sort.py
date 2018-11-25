@@ -5,3 +5,8 @@
  
   
   Algorithmic Questions/Bubble_Sort.py
+  
+
+class Solution:
+ def bubble_sort:
+  print(sorting_solution)
