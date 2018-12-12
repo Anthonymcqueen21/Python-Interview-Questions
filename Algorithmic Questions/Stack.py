@@ -5,7 +5,6 @@
    which removes the last element that is added.
 """
 # Python Implemtation
-
 class Stack:
     
     def __init__(self):
