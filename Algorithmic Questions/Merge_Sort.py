@@ -1,7 +1,6 @@
 # Uses divide and conquer method with recursive means
 # Time Complexity: 0(n log n)
-# Space Complexity: 0(n)
-
+# Space Complexity: 0(n)\
 # Python Implementation
 
 def merge(left, right):
