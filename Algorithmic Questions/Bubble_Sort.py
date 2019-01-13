@@ -4,9 +4,7 @@
 # A sequence of numbers that are sorted in lowest to highest order.
 # Warning this is one of the slowest algorithms to use.
  
-  
-Algorithmic Questions/Bubble_Sort.py
-  
+# Python implementation
 def sort(seq):
  
  L = len(seq)
