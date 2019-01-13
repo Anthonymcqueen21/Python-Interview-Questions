@@ -8,7 +8,7 @@ Takes a list of integers and sorts them in ascending order. This sorted
 list is then returned.
 """
 
-# Implementation
+# Python Implementation
 
 def sort(seq):
     for i in range(0, len(seq)):
