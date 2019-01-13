@@ -1,6 +1,7 @@
 # Recursivly partitions the list until you find the key
 # Time Complexity 0(log n)
 
+
 def search(seq, key):
     """
     Taking a list of integers and searches if a key is contained within the list.
