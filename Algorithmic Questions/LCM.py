@@ -6,7 +6,7 @@
    Simple Implementation of the lowest common multilpe algorithm
 """
 
-# Implementation example
+# LCM Implementation <=
 
 def lcm(a,b):
    """
