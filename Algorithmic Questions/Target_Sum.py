@@ -2,7 +2,6 @@
 # You are given a list of non-negative integers, a1, a2, ..... an,
 # And a Target, S. Now you have 2 symbols + and -,
 # For each integer, you should choose one from + and - as sum of integers equal to target S.
-
 # Example 1:
 # Input: nums is [1,1,1,1,1], S is 3.
 # Output: 5
