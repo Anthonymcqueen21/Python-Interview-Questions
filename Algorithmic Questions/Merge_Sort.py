@@ -39,6 +39,7 @@ def sort(seq):
     middle = int(len(seq) / 2)
     left = sort(seq[:middle])
     right = sort(seq[middle:])
-    return merge(left, right)
+    
+return merge(left, right)
     
     
