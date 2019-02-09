@@ -17,5 +17,5 @@ def lcm(a,b):
    """
    tmp_ a = a
    while (tmp_a % b) != 0:
-        tmp_a += a
-   return tmp_a
+        tmp_a += b
+return tmp_a
