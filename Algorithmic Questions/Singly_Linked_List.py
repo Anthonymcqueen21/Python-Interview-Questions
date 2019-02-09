@@ -37,4 +37,6 @@ class SinglyLinkedList:
    node.set_next(self.head)
    self.head = node
    self.size = size
+
+return size
    
