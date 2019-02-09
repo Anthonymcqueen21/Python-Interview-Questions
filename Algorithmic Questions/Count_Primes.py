@@ -18,4 +18,4 @@ class Solution:
           for j in xrange(i*i, n, 2*i):
               if not is_prime[j]:
                  continue
-          return 0
+     return 0
