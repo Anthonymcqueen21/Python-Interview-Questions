@@ -7,7 +7,6 @@
 """
 
 # LCM Implementation <=
-
 def lcm(a,b):
    """
    Simple version of lcm code, that does not have any dependencies
