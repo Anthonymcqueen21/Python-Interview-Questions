@@ -5,7 +5,6 @@ Together represent a sequence. In simple terms each node is a data reference
 
 # Python Implementation
 class Node:
-    
     def __init__(self, data=None, next=None):
         self.data = data
         self.next = next
