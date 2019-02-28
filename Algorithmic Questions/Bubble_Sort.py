@@ -6,7 +6,6 @@
  
 # Python implementation
 def sort(seq):
- 
  L = len(seq)
  for i in range(L):
     for n in range(1, L - i):
