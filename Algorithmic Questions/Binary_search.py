@@ -20,4 +20,4 @@ def search(seq, key):
              hi = mid - 1
         else:
              return mid
-    return False
+ return False
