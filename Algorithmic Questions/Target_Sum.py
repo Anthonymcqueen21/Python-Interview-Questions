@@ -12,6 +12,7 @@ class Solution(object):
    :type nums: List[int]
    :type S: int
    :rtype: int
+   """
    
    def subsetSum(nums, S):
        dp = collections.defaultdict(int)
