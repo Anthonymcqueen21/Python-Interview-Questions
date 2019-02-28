@@ -8,7 +8,6 @@ def merge(left, right):
     Taking two sorted sub list and merges them into a single sorted sub list
     and returns it.
     """
-    
     results = []
     n, m = 0, 0
     while n < len(left) and m < len(right):
