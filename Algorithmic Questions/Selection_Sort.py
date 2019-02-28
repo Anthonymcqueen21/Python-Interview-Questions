@@ -9,7 +9,6 @@ list is then returned.
 """
 
 # Python Implementation
-
 def sort(seq):
     for i in range(0, len(seq)):
        iMin = i
