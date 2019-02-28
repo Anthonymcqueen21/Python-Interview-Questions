@@ -8,7 +8,6 @@
 class Stack:
     def __init__(self):
         self.stack_list = []
-        
     def add(self, value):
         """
         Adding element at last
