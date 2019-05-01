@@ -1,6 +1,7 @@
 # Counting a number of prime numbers less than a negative number
 # Python implementation
 
+
 class Solution:
     def countPrimes(self, n):
        if n <= 2:
