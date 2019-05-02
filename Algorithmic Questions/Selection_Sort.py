@@ -17,5 +17,5 @@ def sort(seq):
              iMin = j
        if i != iMin:
           seq[i], seq[iMin] = seq[iMin], seq[i]
-    return seq
+return seq
    
