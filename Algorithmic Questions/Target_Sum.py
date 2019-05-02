@@ -20,7 +20,7 @@ class Solution(object):
          for i in reversed(xrange(n - S+1)):
             if i-n in dp:
                dp[i] += dp[i-n]
-      return dp[S]
+  return dp[S]
       
    total = sum(nums):
    if total < S or (S + total) % 2: return 0
