@@ -1,8 +1,8 @@
 # Singly Linked List
+
 """A linked list a particular data structure that consist a list of nodes which
 Together represent a sequence. In simple terms each node is a data reference
 """
-
 # Python Implementation
 class Node:
     def __init__(self, data=None, next=None):
