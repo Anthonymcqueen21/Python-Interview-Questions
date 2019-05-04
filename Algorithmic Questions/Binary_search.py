@@ -1,5 +1,6 @@
 # Recursivly partitions the list until you find the key
 # Time Complexity 0(log n)
+
     """
     Taking a list of integers and searches if a key is contained within the list.
     
@@ -8,6 +9,7 @@
     :rtype: The index of where the 'key' is located in a list. If 'key' is
             not found then false is returned
     """
+    
 def search(seq, key):
     lo = 0
     hi = len(seq) - 1
