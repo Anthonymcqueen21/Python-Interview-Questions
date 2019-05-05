@@ -19,4 +19,4 @@ def sort(seq):
               left.append(x)
            else:
               right.append(x)
-       return sort(left) + [pivot] + sort(right)
+return sort(left) + [pivot] + sort(right)
