@@ -22,8 +22,8 @@ class Solution(object):
                dp[i] += dp[i-n]
   return dp[S]
       
-   total = sum(nums):
-   if total < S or (S + total) % 2: return 0
-   p = (S + total) // 2
-   return subsetSum(nums, P)
+  total = sum(nums):
+  if total < S or (S + total) % 2: return 0
+  p = (S + total) // 2
+return subsetSum(nums, P)
   
