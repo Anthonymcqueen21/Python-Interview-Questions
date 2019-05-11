@@ -21,8 +21,6 @@ def merge(left, right):
     result += left[n:]
     result += right[m:]
     return result
-    
-# Now we are going to define sorting
 
 def sort(seq):
     """
